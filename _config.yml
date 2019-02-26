@@ -1,18 +1,19 @@
-# Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
-keyword: ""
 repository: guqianyao/guqy.github.io
 github_url: https://github.com/guqianyao
 url: https://github.com/guqianyao/guqy.github.io
 
+# Site settings
+title: Your Blog
+SEOTitle: 你的博客 | Your Blog
+header-img: img/home-bg.jpg
+email: guqianyao@gmail.com
+description: ""
+keyword: ""
+
+
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
 github_username:    guqianyao
 
 
