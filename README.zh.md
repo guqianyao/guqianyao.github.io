@@ -122,7 +122,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 ```
 
 唯一需要注意的是`featured-condition-size`: A tag will be featured if the size of it is more than this condition value. （也不知道Hux是想表达什么意思，请作者解答）
- 
+
 内部有一个条件模板 `{% if tag[1].size > {{site.featured-condition-size}} %}` 是用来做筛选过滤的.
 
 
@@ -212,7 +212,7 @@ There are a number of tasks it performs like minification of the JavaScript, com
 
 标题底图是可以自己选的，看看几篇示例post你就知道如何设置了，详情请见：
   [issue #6 ](https://github.com/Huxpro/huxpro.github.io/issues/6) asked, **how to make it looks great?**
-  
+
 标题底图的选取完全是看个人的审美了，我也帮不了你。每一篇文章可以有不同的底图，你想放什么就放什么，最后宽度要够，大小不要太大，否则加载慢啊。
 
 但是需要注意的是本模板的标题是**白色**的，所以背景色要设置为**灰色**或者**黑色**，总之深色系就对了。
@@ -229,6 +229,4 @@ There are a number of tasks it performs like minification of the JavaScript, com
 2. 感谢[@BrucZhaoR](https://github.com/BruceZhaoR)的中文翻译 
 
 3. 感谢 Jekyll、Github Pages 和 Bootstrap!
-
-
 
