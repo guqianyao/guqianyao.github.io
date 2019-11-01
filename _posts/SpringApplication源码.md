@@ -1,4 +1,4 @@
-### SpringApplication.run()干了啥
+###  SpringApplication
 
 #### run()干了啥
 
@@ -8,7 +8,7 @@
 public static void main(String[] args) {
 		SpringApplication.run(StdeplearnApplication.class, args);
 	}
-``` 
+```
 
 #####利用创建好的`SpringApplication`对象,调用`run`方法
 
